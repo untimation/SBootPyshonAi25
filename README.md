@@ -5,7 +5,7 @@
 
 개발 환경구축
 
-파이썬 인터프리티 : https://www.python.org/downloads/ -? 3.12버전 설치 (3.8이상 필수)
+파이썬 인터프리티 : https://www.python.org/downloads/ -> 3.12버전 설치 (3.8이상 필수)
 
 IDE 설치 : https://www.jetbrains.com/ko-kr/pycharm/download/?section=windows -> 커뮤니티 설치
 
