@@ -23,3 +23,5 @@ ASGI 특징
 FastAPI는 ASGI 표준을 따르는 웹 프레임워크임 FastAPI 애플리케이션은 비동기 처리를 기본으로 하며, Uvicorn과 같은 ASGI 서버를 사용하여 높은 성능을 제공 FastAPI 서버 실행
 
 main.py 실행 Terminal에서 D:\pythonWorkSpace> uvicorn main:app --reload --port 8001 (위치확인)
+
+![image](https://github.com/user-attachments/assets/96d5de53-5eac-425a-b8f3-cc11344997b7)
