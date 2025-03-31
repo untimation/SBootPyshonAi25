@@ -1,7 +1,13 @@
-# SBootPyshonAi25
+![image](https://github.com/user-attachments/assets/dfc7c8ad-1f40-47f8-872e-60acd98392ec)# SBootPyshonAi25
 스프링 부트와 파이썬을 결합한 AI풀스택 개발
 
 스프링 부트와 파이썬 AI 협업 모듈
+
+![image](https://github.com/user-attachments/assets/f4358462-a7ac-43a7-879e-0bdab1c7f507)
+
+iptime ipcam을 셋팅한다. -> 리셋 -> ip휴대폰으로 연결 
+vms 셋팅을 진행한다. -> rtsp 프로토콜 활성화
+
 
 개발 환경구축
 
